@@ -1,9 +1,12 @@
 # Hayoung Lim 👨🏻‍💻
+<br>
 
 ## About Me
 - 🖥 Software engineer deeply interested in understanding how societies function
 - 🎓 Studying Computer Science at Minerva University, graduating May 2026
 - ✍🏼 Check out my recent writings on [Medium](https://medium.com/@hayounglim)
+
+<br>
 
 ## I have experience with:
 
@@ -37,6 +40,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
+<br>
 
 ## I'm currently interested in:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
