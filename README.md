@@ -1,5 +1,4 @@
 # Hayoung Lim 👨🏻‍💻
-<br>
 
 ## About Me
 - 🖥 Software engineer deeply interested in understanding how societies function
