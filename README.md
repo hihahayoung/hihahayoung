@@ -1,7 +1,7 @@
 # Hayoung Lim 👨🏻‍💻
 
 ## About Me
-- 🖥 Software engineer deeply interested in understanding how societies function
+- 🖥 Software engineer deeply interested in understanding how technology affects societies
 - 🎓 Studying Computer Science at Minerva University, graduating May 2026
 - ✍🏼 Check out my recent writings on [Medium](https://medium.com/@hayounglim)
 
