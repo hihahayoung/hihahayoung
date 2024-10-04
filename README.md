@@ -5,7 +5,7 @@
 - 🎓 Studying Computer Science at Minerva University, graduating May 2026
 - ✍🏼 Check out my recent writings on [Medium](https://medium.com/@hayounglim)
 
-## I have experience with...
+## I have experience with:
 
 #### 🌐 Language
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -38,7 +38,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 
-## I'm currently interested in...
+## I'm currently interested in:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
